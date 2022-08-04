@@ -1,9 +1,9 @@
 ## Olá! Me chamo Lucas Camilo Tymoschenko,
-## Bem vindo(a) ao meu perfil!
+Bem vindo(a) ao meu perfil!
 
-## - 🌱 Atualmente estou aprendendo sobre Angular e Jquery
-
-##- 📚 Estou trabalhando no meu TCC
+## 
+- 🌱 Atualmente estou aprendendo sobre Angular e Jquery
+- 📚 Estou trabalhando no meu TCC
 
  <div>
    <a href="https://github.com/LuTymos">
