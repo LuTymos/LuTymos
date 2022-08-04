@@ -1,5 +1,5 @@
-## Olá! Me chamo Lucas Camilo Tymoschenko,
-Bem vindo(a) ao meu perfil!
+## Olá! Me chamo Lucas Camilo Tymoschenko, Bem vindo(a) ao meu perfil!
+
 
 ## 
 - 🌱 Atualmente estou aprendendo sobre Angular e Jquery
