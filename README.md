@@ -2,7 +2,6 @@
 
 
 ## 
-- 🌱 Atualmente estou aprendendo sobre Angular e Jquery
 - 📚 Estou trabalhando no meu TCC
 
  <div>
