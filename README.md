@@ -1,8 +1,6 @@
 ## Olá! Me chamo Lucas Camilo Tymoschenko, Bem vindo(a) ao meu perfil!
 
 
-## 
-- 📚 Estou trabalhando no meu TCC
 
  <div>
    <a href="https://github.com/LuTymos">
